@@ -39,30 +39,30 @@ Team Samurai/
 │
 ├── README.md               # You are here!
 │
-├── notebooks/              # Contains the detailed, step-by-step analytical story.
-│   ├── 0_Data_Preparation_and_Merging.ipynb
+├── notebooks/              # Contains the detailed, step-by-step analytical story.                                                                                                                                 
+│   ├── 0_Data_Preparation_and_Merging.ipynb                                                                                                                                                                        
 │   ├── 1_Exploratory_Data_Analysis.ipynb
-│   ├── 2_Solution_Flight_Difficulty_Score.ipynb
-│   ├── 3_Insights_and_Recommendations.ipynb
-│   └── 4_Advanced_Analysis_Predictive_Modeling.ipynb
-│
-├── scripts/                # Contains the automated, production-ready Python pipeline.
-│   ├── data_loader.py
-│   ├── feature_engineering.py
-│   ├── scoring.py
-│   └── insights.py
-│
-├── main.py                 # Main script to run the entire automated pipeline.
-├── dashboard.py            # The interactive Streamlit dashboard application.
-│
-├── presentation/           # Contains the final presentation slides.
-│   └── Team_Samurai.pdf
-│
+│   ├── 2_Solution_Flight_Difficulty_Score.ipynb                                                                                                                                                                    
+│   ├── 3_Insights_and_Recommendations.ipynb                                                                                                                                                                        
+│   └── 4_Advanced_Analysis_Predictive_Modeling.ipynb                                                                                                                                                               
+│                                                                                                                                                                                                                   
+├── scripts/                # Contains the automated, production-ready Python pipeline.                                                                                                                             
+│   ├── data_loader.py                                                                                                                                                                                              
+│   ├── feature_engineering.py                                                                                                                                                                                      
+│   ├── scoring.py                                                                                                                                                                                                  
+│   └── insights.py                                                                                                                                                                                                 
+│                                                                                                                                                                                                                   
+├── main.py                 # Main script to run the entire automated pipeline.                                                                                                                                     
+├── dashboard.py            # The interactive Streamlit dashboard application.                                                                                                                                      
+│                                                                                                                                                                                                                   
+├── presentation/           # Contains the final presentation slides.                                                                                                                                               
+│   └── Team_Samurai.pdf                                                                                                                                                                                            
+│                                                                                                                                                                                                                   
 ├── data/                   # Contains the 5 raw input CSV files.
-│
+│                                                                                                                                                                                                                   
 └── output/                 # Contains all generated data files.
-    ├── processed_data/     # Intermediate, analysis-ready data.
-    └── test_TeamSamurai.csv  # The final, scored CSV deliverable.
+    ├── processed_data/     # Intermediate, analysis-ready data.                                                                                                                                                    
+    └── test_TeamSamurai.csv  # The final, scored CSV deliverable.                                                                                                                                                  
 
 3. How to Run This Project
 Environment Setup
