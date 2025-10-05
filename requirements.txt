@@ -1,0 +1,12 @@
+pandas==2.3.2
+numpy==1.25.3
+matplotlib==3.10.6
+seaborn==0.13.2
+scikit-learn==1.7.2
+scipy==1.16.2
+joblib==1.5.2
+nbclient
+nbformat
+jupyter
+ipykernel
+streamlit==1.26.0
