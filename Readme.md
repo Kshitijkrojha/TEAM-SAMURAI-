@@ -2,6 +2,21 @@ United Airlines SkyHack: A Data-Driven Framework for Proactive Operations
 Team: Team Samurai
 Date: October 5, 2025
 
+Tech Stack
+This project leverages a modern, open-source data science stack:
+
+🐍 Python: The core programming language for all analysis and scripting.
+
+🐼 Pandas: For data manipulation, cleaning, and aggregation.
+
+📊 Matplotlib & Seaborn: For static data visualization and generating charts for the reports.
+
+🤖 Scikit-learn: For building and evaluating the predictive machine learning model.
+
+📓 Jupyter Notebooks: For iterative analysis, storytelling, and documenting the research process.
+
+🎈 Streamlit: For building and deploying the interactive web dashboard.
+
 1. Project Overview
 This project addresses the United Airlines SkyHack challenge to develop a systematic framework for identifying and managing operationally complex flights at Chicago O’Hare International Airport (ORD). Our solution moves beyond a simple analysis to deliver a complete, end-to-end operational toolkit designed for real-world implementation.
 
